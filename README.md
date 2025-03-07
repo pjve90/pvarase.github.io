@@ -1,2 +1,2 @@
-# pvarase.github.io
+# Pablo Varas Enríquez
 Personal website
